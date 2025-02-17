@@ -11,7 +11,7 @@ header{
 }
 
 header img{
-    width: 100%;
+    width: 100%; 
 }
 
 nav{
@@ -19,4 +19,17 @@ nav{
     color: white;
     padding: 10px 0 10px 0;
     margin-top: 0px;
+}
+
+/* Alinea texto de izquierda a derecha */
+nav ul li{
+    display: inline;
+    margin: 0 25px;
+}
+
+/* texto blanco del nav */
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
 }
