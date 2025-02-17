@@ -1,0 +1,22 @@
+
+
+body{
+    font-family: sans-serif;
+    background: white;
+    margin: 0px;
+}
+
+header{
+    text-align: center;
+}
+
+header img{
+    width: 100%;
+}
+
+nav{
+    background: #242697;
+    color: white;
+    padding: 10px 0 10px 0;
+    margin-top: 0px;
+}
