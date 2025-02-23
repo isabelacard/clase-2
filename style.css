@@ -50,5 +50,31 @@ a:hover{
 section{
     padding-top: 50px;
     text-align: center;
+    align-items: center;
     margin-bottom: 30px;
+}
+
+.tienda{
+    width: 800px;
+    width: 100%;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+
+}
+
+.tabla{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-items: center;
+}
+
+.forms{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
 }
